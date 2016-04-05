@@ -14,7 +14,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
     @IBOutlet var tableView: UITableView!
     
     
-    let animals = ["Dog","Lion","Monkey","Panda","Penguin","Giraffe"]
+    let animals = ["Monkey","Panda","Penguin","Giraffe"]
     let textCellIdentifier = "textCell"
     
     
